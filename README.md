@@ -17,13 +17,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="150" height="100"/>
     <p align="center"> 
     
   <kbd>
     <a style="border:10px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=red&center=true&vCenter=true&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
   </kbd>
- </div>
+
  </h1>
 
 
