@@ -3,9 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- <img src="https://github.com/Alta-Immersive-Capstone-Project/BackEnd/blob/main/images/lowkost.png" />
- 
+  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="350" height="350"/>
  </div>
+
  
 
   <h1 align="center">
