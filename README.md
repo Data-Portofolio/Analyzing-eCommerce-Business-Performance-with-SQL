@@ -31,11 +31,6 @@
       <details>
 <summary>🧰 Build App & Database</summary>
 
-
-
-
-
-  
   
 </details>
             
@@ -80,40 +75,11 @@
  | | Access history of sales activities|
  
   
-</details>
-<details>
- <summary>🏃Use Case Diagram</summary>
-    <div align="center">
- <img src="https://github.com/Alta-Immersive-Capstone-Project/BackEnd/blob/main/images/usecase2%20(1).png" />
- <div>
-</details>
-<details>
-<summary>💎Testing</summary>
-  
- <div align="center">
- <img src="https://github.com/Alta-Immersive-Capstone-Project/BackEnd/blob/main/images/photo1654481120.jpeg" />
- <div>
-</details>
-
-
-<!-- CONTACT -->
-## Contact
-
-<!-- :heart: -->
-<!-- CONTRIBUTOR -->
-:star2:Contributor :
-
-* [Astuti](https://github.com/astutir)
-[![GitHub Astuti](https://img.shields.io/github/followers/astutir?label=follow&style=social)](https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL/tree/main)
-[![LinkedIn Astuti](https://img.shields.io/linkedin/followers/astutir?label=follow&style=social)](https://www.linkedin.com/in/a-rahmawati-6694b8260)
-
-[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/a-rahmawati-6694b8260/)]
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-We are very grateful for suggestion and encouragement from mentors and frontend's team in Immersive Alterra Academy Batch 8 :pray::pray:
+We are very grateful for suggestion and encouragement from mentor
 
 
 
