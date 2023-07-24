@@ -1,3 +1,4 @@
+
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
@@ -6,27 +7,12 @@
   <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="250" height="200"/>
  </div>
 
- 
-
-  <h1 align="center">
-<p align="center"> "Analyzing eCommerce Business Performance with SQL "
- </h1>
-  <p align="center">
-   :collision: Mini Project in Rakamin Academy :collision:
-    <br />
-    <a href="https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL"><strong>Explore the docs »</strong></a>
-    <br />
-  </div>
-
-
-
+<h1 align="center">
+<p align="center">  "Analyzing eCommerce Business Performance with SQL "
+<p align="center"> <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F71515&background=CABF4000&width=435&lines=A+Mini+Project+in+Rakamin+Academy'/>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-
-
-
 <div>
       <details>
 <summary>🧰 Build App & Database</summary>
@@ -105,8 +91,9 @@
 
 * [Astuti](https://github.com/astutir)
 [![GitHub Astuti](https://img.shields.io/github/followers/astutir?label=follow&style=social)](https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL/tree/main)
-[![Linkedin Astuti](https://img.shields.io/linkedin/followers/astutir?label=follow&style=social)](https://www.linkedin.com/in/a-rahmawati-6694b8260)
+[![LinkedIn Astuti](https://img.shields.io/linkedin/followers/astutir?label=follow&style=social)](https://www.linkedin.com/in/a-rahmawati-6694b8260)
 
+[![LinkedIn][linkedin-shield]][(https://www.linkedin.com/in/a-rahmawati-6694b8260/)]
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
