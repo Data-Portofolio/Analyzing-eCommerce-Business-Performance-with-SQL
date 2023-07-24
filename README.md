@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="150" height="100"/>
+  <img src="https://media.giphy.com/media/iCM9HtIvSfpykiFrlI/giphy.gif" width="150" height="150"/>
     <p align="center"> 
     
   <kbd>
