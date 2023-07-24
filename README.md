@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="350" height="350"/>
+  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="350" height="200"/>
  </div>
 
  
