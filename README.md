@@ -3,18 +3,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="350" height="200"/>
+  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="250" height="200"/>
  </div>
 
  
 
   <h1 align="center">
-<p align="center"> "Affordable Kost for Millenial "
+<p align="center"> "Analyzing eCommerce Business Performance with SQL "
  </h1>
   <p align="center">
-   :collision: Capstone Project  in Immersive Alterra Academy Batch 8 :collision:
+   :collision: Mini Project in Rakamin Academy :collision:
     <br />
-    <a href="https://github.com/Alta-Immersive-Capstone-Project/BackEnd.git"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL"><strong>Explore the docs »</strong></a>
     <br />
   </div>
 
