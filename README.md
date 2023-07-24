@@ -99,15 +99,13 @@
 <!-- CONTACT -->
 ## Contact
 
-Project Repository Link :  [https://github.com/Alta-Immersive-Capstone-Project/BackEnd](https://github.com/Alta-Immersive-Capstone-Project)<br/>
-
-
 <!-- :heart: -->
 <!-- CONTRIBUTOR -->
 :star2:Contributor :
 
 * [Astuti](https://github.com/astutir)
 [![GitHub Astuti](https://img.shields.io/github/followers/astutir?label=follow&style=social)](https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL/tree/main)
+[![Linkedin Astuti](https://img.shields.io/linkedin/followers/astutir?label=follow&style=social)](https://www.linkedin.com/in/a-rahmawati-6694b8260/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
