@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="200" height="150"/>
  </div>
  </h1>
 <p align="center"> 
