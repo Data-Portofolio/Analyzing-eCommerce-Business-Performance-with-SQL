@@ -1,6 +1,20 @@
 
 <div id="top"></div>
 
+
+<h1 align="center">
+<p align="center">  Analyzing eCommerce Business Performance with SQL
+    
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <img src="" width="250" height="200"/>
+ </div>
+ </h1>
+<p align="center"> 
+  <kbd>
+    <a style="border:10px black" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=F71515&center=true&vCenter=true&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
+  </kbd>
 <p align='center'>
     <a href='https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/astutir'/>
@@ -12,30 +26,11 @@
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
  </p>
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <img src="https://media.giphy.com/media/j58UsgSpavSfr0dlFB/giphy.gif" width="250" height="200"/>
- </div>
-
-<h1 align="center">
-<p align="center">  Analyzing eCommerce Business Performance with SQL
- </h1>
-<p align="center"> <img src='https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=F71515&background=CABF4000&width=435&lines=A+Mini+Project+in+Rakamin+Academy'/>
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div>
-      <details>
-<summary>🧰 Build App & Database</summary>
-
-  
+                 
 </details>
-            
-</details>
-
 <details>
 <summary>🎨ERD</summary>
  <div align="center">
@@ -73,18 +68,19 @@
   | | Find list of nearby facilities include the distance from the Kost|
   | | Generate a offering letter to customer and can be exported|
  | | Access history of sales activities|
- 
-  
+   <div>
+</details>
 
+</details>
+  
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 We are very grateful for suggestion and encouragement from mentor
 
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 <h3>
-<p align="center">:copyright: 2023 | Rakamin Academy </p>
+<p align="center">
+    :copyright: 2023 | Rakamin Academy </p>
 </h3>
-<!-- end -->
+
