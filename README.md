@@ -1,20 +1,5 @@
 
 <div id="top"></div>
-
-
-<h1 align="center">
-<p align="center">  Analyzing eCommerce Business Performance with SQL
-    
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="200" height="150"/>
- </div>
- </h1>
-<p align="center"> 
-  <kbd>
-    <a style="border:10px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=red&center=true&vCenter=true&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
-  </kbd>
 <p align='center'>
     <a href='https://github.com/astutir'>
         <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/astutir'/>
@@ -26,9 +11,24 @@
         <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/>
  </p>
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
-<div>
+<h1 align="center">
+<p align="center">  Analyzing eCommerce Business Performance with SQL
+    
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <img src="https://media.giphy.com/media/gEPDwd7V25OHsHaBvV/giphy.gif" width="200" height="150"/>
+    <p align="center"> 
+    
+  <kbd>
+    <a style="border:10px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=red&center=true&vCenter=true&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
+  </kbd>
+ </div>
+ </h1>
+
+
+    
+
                  
 </details>
 <details>
