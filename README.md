@@ -13,7 +13,7 @@
  </h1>
 <p align="center"> 
   <kbd>
-    <a style="border:10px black" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=F71515&center=true&vCenter=true&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
+    <a style="border:10px black" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=27&duration=3500&pause=1000&color=red&center=true&vCenter=true&background=magenta&width=500&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
   </kbd>
 <p align='center'>
     <a href='https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL'>
