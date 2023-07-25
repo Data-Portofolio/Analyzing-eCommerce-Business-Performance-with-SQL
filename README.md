@@ -11,8 +11,8 @@
     <a style="border:10px white" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=22&duration=3500&pause=1000&color=red&center=true&vCenter=true&background=red&width=450&lines=A+Mini+Project+in+Rakamin+Academy" alt="Typing SVG" /></a>
   </kbd>
   <p align='center'>
-    <a href='https://github.com/astutir'>
-        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/astutir'/>
+    <a href='https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL'>
+        <img alt='total stars' title='Total stars on GitHub' src='https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=5&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Data-Portofolio'/>
      <a href='https://github.com/astutir'>
         <img alt='Follow Me on GitHub' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/astutir?style=for-the-badge&&label=GitHub&logo=Github&color=pink'/>
     <a href='https://www.linkedin.com/in/a-rahmawati' target='_blank'>
