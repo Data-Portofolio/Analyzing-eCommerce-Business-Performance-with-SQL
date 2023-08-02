@@ -62,18 +62,39 @@
   | |seller_city|
   | |seller_state|
 |Orders|order_id| 
-|Order_items|seller_id| 
-|Payments|seller_id| 
-|Geolocation|seller_id| 
+  | |payment_sequential|
+  | |payment_type|
+  | |payment_installments|
+  | |payment_value|
+|Order_items|order_id| 
+   | |order_item_id|
+  | |product_id|
+  | |seller_id|
+  | |shipping_limit_date|
+  | |price|
+  | |freight_value|
+|Reviews|order_id| 
+  | |review_id|,
+  | |order_id|,
+   | |review_score|,
+  | |review_comment_title|,
+  | |review_comment_message|,
+  | |review_creation_date|,
+  | |review_answer_timestamp|
+|Payments|order_id| 
+  | |payment_sequential|
+  | |payment_type|
+  | |payment_installments|
+  | |payment_value|
+|Geolocation|geolocation_zip_code_prefix| 
+  | |geolocation_lat|
+  | |geolocation_lng|
+  | |geolocation_city|
+  | |geolocation_state|
+
   
-   | | Read history of transaction based on the Kost|
-   | | Generate payment report each month|
-  |Consultant | Obtain list of the registered Kost |
-  | | Interaction with customer about dealing price or just reply message|
-  | | Find list of nearby facilities include the distance from the Kost|
-  | | Generate a offering letter to customer and can be exported|
- | | Access history of sales activities|
-   <div>
+  
+   </div>
 </details>
 
 </details>
