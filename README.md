@@ -41,7 +41,7 @@
   
  <div align="center">
   
-|  Table | Coloumn |
+|  Table | Atribut |
 | --- | --- |
 |Customers|customer_id|
  | |customer_unique_id|
