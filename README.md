@@ -37,27 +37,35 @@
 
 </details>
   <details>
-<summary>🏡List of Features</summary>
+<summary>🏡List of Datasets</summary>
   
  <div align="center">
   
-|  User | Action |
+|  Table | Coloumn |
 | --- | --- |
-| Customer| Manage customer's profile include upload or update profile picture|
-|         | Reset password if forgot |
- | | Find the Kosts in a city, district, or house by Map Visualization|
-  | | Obtain list of the Kosts based on the lowest's or highest price|
- | | Comprehensive information about available room include the amenities, rules, and location on the Map|
-  | | Chat with consultant about dealing room price or just asking some questions|
-  | | Available various choices of payment methods |
-   | | Discover list of customer's booking history|
-  | | Review and rate about customer's experience after renting |
-   | | Reminder invoice of payment via email  |
-  |Admin |Manage the management's profile include upload or update profile picture|
- | | Manage the Kost's data and transaction's data|
- | | Interaction with customer about dealing price or just reply message|
-   |Supervisor | Manage The Kost's Data and upload some photos to figure the Kost|
- | | Interaction with customer about dealing price or just reply message|
+|Customers|customer_id|
+ | |customer_unique_id|
+ | |customer_zip_code_prefix|
+ | |customer_city |
+ | |customer_state|
+|Product|product_id|
+ | |product_category_name|
+ | |product_name_lenght|
+ | |product_description_lenght|
+ | |product_photos_qty|
+ | |product_weight_g|
+ | |product_length_cm|
+ | |product_height_cm|
+ | |product_width_cm|
+|Sellers|seller_id|
+  | |seller_zip_code_prefix|
+  | |seller_city|
+  | |seller_state|
+|Orders|order_id| 
+|Order_items|seller_id| 
+|Payments|seller_id| 
+|Geolocation|seller_id| 
+  
    | | Read history of transaction based on the Kost|
    | | Generate payment report each month|
   |Consultant | Obtain list of the registered Kost |
