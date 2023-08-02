@@ -29,15 +29,21 @@
                  
 </details>
 <details>
-<summary>🎨ERD</summary>
+<summary>🎨ERD <br>
+
+</summary>
+  
+
  <div align="center">
- <img src="https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/figure/ERD.png" />
+    <img src="https://github.com/Data-Portofolio/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/figure/ERD.png" />
  <div>
 </details>
 
 </details>
   <details>
-<summary>🏡List of Datasets</summary>
+<summary>🏡List of Datasets
+
+</summary>
   
  <div align="center">
   
