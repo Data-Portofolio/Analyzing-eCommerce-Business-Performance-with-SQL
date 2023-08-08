@@ -104,7 +104,15 @@
 </details>
 
 </details>
-  
+
+## Annual Customer Activity Growth Analysis
+- Monthly Active User (MAU) : metrik yang digunakan untuk mengukur jumlah total pengguna unik yang berinteraksi dengan aplikasi selama 30 hari. Menghitung MAU juga membantu pemasar produk memahami perilaku pengguna di aplikasi mereka dengan lebih jelas. Memahami perilaku pengguna dapat membantu menginformasikan keputusan tentang fitur produk dan pembaruan desain berdasarkan umpan balik pengguna atau tren dalam pola penggunaan di berbagai versi atau demografi.
+  MAU dapat membantu untuk mengevaluasi beberapa hal berikut:
+    - Ketertarikan pengguna untuk mengunjungi situs Anda
+    - Kesuksesan marketing campaign
+    - Revenue-growth rate
+
+
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
